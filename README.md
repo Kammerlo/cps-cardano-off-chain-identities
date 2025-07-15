@@ -27,14 +27,14 @@ This problem statement outlines the need for a standardized solution for off-cha
 
 ## Problem
 
-The core problem is the absence of a standardized, selfsustaining and user-friendly solution for linking off-chain identifiers to on-chain transaction on the Cardano blockchain.
+The core problem is the absence of a standardized, self-sustaining and user-friendly solution for linking decentralized off-chain identifiers to on-chain transaction on the Cardano blockchain.
 This gap creates several challenges:
 - **Trust and Security**: Without a reliable way to verify identities, it is difficult to establish trust between parties involved in transactions. This can lead to fraud, manipulation, and other security issues.
 - **Compliance**: Many industries require strict compliance with regulations related to identity verification. The lack of a standardized solution makes it challenging for businesses and organizations to meet these requirements.
 - **User Experience**: Current solutions for off-chain identity verification are often fragmented and complex, leading to a poor user experience. Making it impossible for others to integrate these solutions e.g. explorers
 
 ## Use cases
-The need for a standardized solution for off-chain identity verification on Cardano is driven by several use cases, including:
+The need for a standardized solution for decentralized off-chain identity verification on Cardano is driven by several use cases, including:
 - **Accountability**: When publishing financial reports, it is essential to verify the identity of the individuals or organizations responsible for the report. This helps to ensure that the information is accurate and trustworthy.
 - **Supply Chain Tracking**: In supply chain, parties involved in the process need to verify the identity of each other to ensure that the products are genuine and meet quality standards. 
 This is particularly important in industries such as pharmaceuticals, where counterfeit products can have serious consequences.
